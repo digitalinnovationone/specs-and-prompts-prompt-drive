@@ -14,10 +14,10 @@
 - [ ] Não ativar a chave duas vezes [002-spec-fix]
 
 # Perssistência de dados
-- [ ] Salvar Pastas e Prompts em algum lugar
-- [ ] Controle de usuários
+- [X] Salvar Pastas e Prompts em algum lugar
+- [X] Controle de usuários
+- [X] Garantiu Campos referente aos campos do Stripe
 
-separar specs por
-foundation
-fixes
-features
+# Construir e Documentar o Back End
+- [ ] Construir e Documentar o back End
+
