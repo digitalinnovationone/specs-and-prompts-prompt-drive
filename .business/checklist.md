@@ -19,5 +19,22 @@
 - [X] Garantiu Campos referente aos campos do Stripe
 
 # Construir e Documentar o Back End
+- [X] Ter um registro inicial de amostragem
 - [ ] Construir e Documentar o back End
+  - [ ] Testar Auth
+      - [X] Criar usuário 
+      - [X] Logar Usuário
+  - [X] Testar e Listar endpoints de `Folders`
+      - [X] Criar uma pasta
+      - [X] Deletar uma pasta
+      - [X] Editar uma pasta
+      - [X] Listar Pastas
+  - [X] Testar e Listar endpoints de `Prompts`
+      - [X] Criar Prompts
+      - [X] Deletar Prompts
+      - [X] Editar Prompts
+      - [X] Listar Prompts
+
+
+# Como Conectar seu front-end com seu back-end
 
