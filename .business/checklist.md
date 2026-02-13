@@ -3,9 +3,9 @@
 - [X] Arquitetura de solução da aplicação (high level design)
 
 # FIXES
-- [ ] Check de Segurança de Aplicação [001-spec-fix]
-- [ ] Não ativar a chave duas vezes [002-spec-fix]
-- [ ] Extensão chrome, não suporta importação direta do supabase
+- [X] Check de Segurança de Aplicação [001-spec-fix]
+- [X] Não ativar a chave duas vezes [002-spec-fix]
+- [X] Extensão chrome, não suporta importação direta do supabase
 
 # COPILOTOS
 - [X] Copiloto de Product Owner
@@ -49,14 +49,14 @@
 ## Features
 
 ### Feature De Login
-    - [ ] Sistema de Login
-      - [ ] Query De listagem Geral (dados do usuário, relação pastas e prompts para serem renderizados)
-        - [ ] Tela de Login 
-        - [ ] Regra quando não tiver logado
-        - [ ] Hooks: O que disparar ao logar
-        - [ ] Cadastrar Novo usuário
+    - [X] Sistema de Login
+      - [X] Query De listagem Geral (dados do usuário, relação pastas e prompts para serem renderizados)
+        - [X] Tela de Login 
+        - [X] Regra quando não tiver logado
+        - [X] Hooks: O que disparar ao logar
+        - [X] Cadastrar Novo usuário
       
 ### Feature de persistência
-    - [ ] Persistência de dados
-        - [ ] Pastas
-        - [ ] Prompts
+    - [X] Persistência de dados
+        - [X] Pastas
+        - [X] Prompts
